@@ -17,3 +17,8 @@ li {
     height: auto;
     width: 300px;
 }
+
+.paragraph.text {
+    font-weight: bold;
+    background-color: lightcyan;
+}
