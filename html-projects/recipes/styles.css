@@ -1,0 +1,19 @@
+h1 {
+    color: lightcoral;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    font-weight: 900;
+    font-size: 16px;
+    background-color: lightcoral;
+    color:aquamarine;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#image {
+    height: auto;
+    width: 300px;
+}
